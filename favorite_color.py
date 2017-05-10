@@ -1,4 +1,4 @@
-# color_evolution_v5.py
+# favorite_color.py
 # Austin Pursley
 # 5/6/2017
 # An idea I had using the concept of genetic algorithms with user feedback.
